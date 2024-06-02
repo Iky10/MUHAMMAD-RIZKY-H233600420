@@ -1,0 +1,59 @@
+body{
+    background: linear-gradient(#b41010 0%, #991111 50%, #330606 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profilrimage {
+    width: 204px;
+}
+.profile h2{
+    color: #ffffff;
+}
+.profile h4{
+    color: white;
+    transform: translateY();
+}
+.profile h6{
+    font-size: 28px;
+    color: white;
+}
+.profile h8{
+    font-size: 25px;
+    color: white;
+}
+.biodata {
+    background: linear-gradient(#ffffff 0%, #fffffff6 50%, #ffffff00 100%);
+    padding-bottom: 150px;
+    padding-top: 55px;
+}
+.row {
+    padding: 10px 0px;
+}
+.My service {
+    padding-top: 55px;
+}
+.contact {
+    padding-top: 55px;
+}
+.footer {
+    background-color: #ffffff;
+    padding-bottom: 20px;
+}
+.contact a{
+    color: black;
+    font-size: 30px;
+}
+.watermark {
+    padding-top: 20px;
+}
+.container h2 {
+    font-size: 20px;
+}
+.card-body {
+    color: black;
+}
